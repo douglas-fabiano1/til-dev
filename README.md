@@ -17,3 +17,4 @@ Diário público de aprendizados para devs: hoje aprendi...
 | 2026-10-07 | 3 | [Chave SSH para GitHub](tils/2026-10-07-criar-chave-ssh-para-github.md) |
 | 2026-10-07 | 3 | [nvm no Ubuntu vs Windows](tils/2026-10-07-nvm-no-ubuntu-vs-windows.md) |
 | 2026-10-07 | 3 | [Fixar versão do Node com .nvmrc](tils/2026-10-07-usar-nvmrc-para-fixar-versao-do-node.md) |
+| 2026-10-07 | 3 | [Branches divergentes e pull --rebase](tils/2026-10-07-branches-divergentes-e-pull-rebase.md) |
