@@ -6,12 +6,12 @@
 - Cada projeto pode usar uma versão diferente
 
 ## Comandos
-​```bash
+```bash
 nvm install --lts    # instala a versão LTS
 nvm use --lts        # usa essa versão
 node -v              # confere a versão do Node
 npm -v               # confere a versão do npm
-​```
+```
 
 ## Analogia
 O nvm é um controle remoto com vários canais de Node.
