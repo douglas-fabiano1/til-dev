@@ -15,3 +15,4 @@ Diário público de aprendizados para devs: hoje aprendi...
 | 2026-10-07 | 3 | [Instalar Ubuntu no WSL](tils/2026-10-7-instalar-ubuntu-no-wsl.md) |
 | 2026-10-07 | 3 | [apt update vs upgrade](tils/2026-10-07-update-e-upgrade-no-ubuntu.md) |
 | 2026-10-07 | 3 | [Chave SSH para GitHub](tils/2026-10-07-criar-chave-ssh-para-github.md) |
+| 2026-10-07 | 3 | [nvm no Ubuntu vs Windows](tils/2026-10-07-nvm-no-ubuntu-vs-windows.md) |
