@@ -5,7 +5,7 @@
 - Com SSH, o `git push` não pede senha
 
 ## Passo a passo
-​```bash
+```bash
 ssh-keygen -t ed25519 -C "seu-email@exemplo.com"
 cat ~/.ssh/id_ed25519.pub     # copia a chave pública
 ```
@@ -14,7 +14,7 @@ cat ~/.ssh/id_ed25519.pub     # copia a chave pública
 3. Testar:
 ```bash
 ssh -T git@github.com
-​```
+```
 
 ## Cuidado
 Nunca publique o arquivo sem `.pub`: ele é a chave privada.
