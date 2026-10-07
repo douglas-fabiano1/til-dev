@@ -18,10 +18,10 @@ git rebase --abort                     # desiste e volta ao estado anterior
 ```
 
 ## Se o Vim abrir (merge)
-​```
+```
 Esc → :wq → Enter    # salvar e sair
 Esc → :q! → Enter    # sair sem salvar
-​```
+```
 
 ## Exemplo real
 Editei o `nvm-no-ubuntu-vs-windows.md` pelo site do GitHub e fiz um commit local sobre o `.nvmrc`. O `git pull` reclamou de branches divergentes. Resolvi com `git pull --rebase` e `git push`.
