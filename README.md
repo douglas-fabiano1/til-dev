@@ -18,3 +18,4 @@ Diário público de aprendizados para devs: hoje aprendi...
 | 2026-10-07 | 3 | [nvm no Ubuntu vs Windows](tils/2026-10-07-nvm-no-ubuntu-vs-windows.md) |
 | 2026-10-07 | 3 | [Fixar versão do Node com .nvmrc](tils/2026-10-07-usar-nvmrc-para-fixar-versao-do-node.md) |
 | 2026-10-07 | 3 | [Branches divergentes e pull --rebase](tils/2026-10-07-branches-divergentes-e-pull-rebase.md) |
+| 2026-10-08 | 3 | [Instalar Next.js e React com npm](tils/2026-10-08-instalar-next-e-react-com-npm.md) |
