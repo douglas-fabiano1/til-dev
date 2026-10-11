@@ -24,3 +24,4 @@ Diário público de aprendizados para devs: hoje aprendi...
 | 2026-10-09 | 4 | [Subir servidor com next dev](tils/2026-10-09-subir-servidor-com-next-dev.md) |
 | 2026-10-09 | 4 | [Pages Router vs App Router](tils/2026-10-09-pages-router-vs-app-router.md) |
 | 2026-10-10 | 4 | [Primeira página com Next.js](tils/2026-10-09-primeira-pagina-com-next.md) |
+| 2026-10-10 | 4 | [GitHub Pages vs Vercel](tils/2026-10-10-github-pages-vs-vercel.md) |
