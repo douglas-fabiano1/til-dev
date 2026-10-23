@@ -1,7 +1,5 @@
 # Protocolos de rede: HTTP, FTP e SMTP
 
-**Data:** 2026-10-09
-**Aula:** curso.dev, aula 4
 
 ## O que aprendi
 - Protocolo é um conjunto de regras para dois computadores conversarem

@@ -1,7 +1,5 @@
 # nvm no Ubuntu (WSL) é diferente do nvm no Windows
 
-**Data:** 2026-10-07
-**Aula:** curso.dev, aula 3
 
 ## O que aprendi
 - No Windows existe o nvm-windows, que não entende `lts/hydrogen`

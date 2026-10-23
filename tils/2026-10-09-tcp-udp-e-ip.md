@@ -1,7 +1,5 @@
 # TCP, UDP e IP
 
-**Data:** 2026-10-09
-**Aula:** curso.dev, aula 4
 
 ## O que aprendi
 - **IP:** o endereço de cada máquina na rede

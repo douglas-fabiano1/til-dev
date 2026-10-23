@@ -1,7 +1,5 @@
 # Subir o servidor web com next dev
 
-**Data:** 2026-10-09
-**Aula:** curso.dev, aula 4
 
 ## O que aprendi
 - `next dev` sobe o servidor de desenvolvimento

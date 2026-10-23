@@ -1,7 +1,5 @@
 # Repositório local, origin e branch
 
-**Data:** 2026-10-23
-**Aula:** curso.dev, aula 6
 
 ## O que aprendi
 

@@ -1,7 +1,5 @@
 # Repositório local vs remoto
 
-**Data:** 2026-10-06
-**Aula:** curso.dev, aula 2
 
 ## O que aprendi
 - **Local:** a cópia na minha máquina, onde eu edito e faço commits

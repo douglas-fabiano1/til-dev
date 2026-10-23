@@ -1,7 +1,5 @@
 # Deploy de um app Next.js na Vercel
 
-**Data:** 2026-10-11
-**Aula:** curso.dev
 
 ## O que aprendi
 - Deploy é publicar o projeto em um servidor com URL pública

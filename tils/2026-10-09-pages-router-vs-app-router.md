@@ -1,7 +1,5 @@
 # Next.js: Pages Router vs App Router
 
-**Data:** 2026-10-09
-**Aula:** curso.dev, aula 4
 
 ## O que aprendi
 - O Next organiza as rotas pelas **pastas**

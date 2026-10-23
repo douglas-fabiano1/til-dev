@@ -1,7 +1,5 @@
 # Instalar o Ubuntu no WSL
 
-**Data:** 2026-10-07
-**Aula:** curso.dev, aula 3
 
 ## O que aprendi
 - O Ubuntu roda dentro do Windows via WSL

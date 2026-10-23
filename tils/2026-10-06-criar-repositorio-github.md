@@ -1,7 +1,5 @@
 # Criar um repositório e conectar com a máquina
 
-**Data:** 2026-10-06
-**Aula:** curso.dev, aula 2
 
 ## O que aprendi
 - `git clone` copia o repositório do GitHub para a minha máquina

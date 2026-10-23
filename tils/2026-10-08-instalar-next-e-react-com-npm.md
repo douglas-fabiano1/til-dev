@@ -1,7 +1,5 @@
 # Instalar Next.js e React com npm
 
-**Data:** 2026-10-08
-**Aula:** curso.dev
 
 ## O que aprendi
 - `npm install pacote@versão` instala uma versão específica

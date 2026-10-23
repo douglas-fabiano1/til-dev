@@ -1,7 +1,5 @@
 # Branches divergentes: merge vs rebase no git pull
 
-**Data:** 2026-10-07
-**Aula:** Aprendizado na prática
 
 ## O que aprendi
 - Branches divergem quando o remoto e o local ganham commits diferentes a partir do mesmo ponto

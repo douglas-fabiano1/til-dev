@@ -1,7 +1,5 @@
 # GitHub Pages vs Vercel para Next.js
 
-**Data:** 2026-10-10
-**Aula:** curso.dev
 
 ## O que aprendi
 - GitHub Pages serve apenas arquivos estáticos (HTML, CSS, JS prontos)

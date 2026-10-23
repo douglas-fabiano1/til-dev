@@ -1,7 +1,5 @@
 # Primeira página com Next.js (Pages Router)
 
-**Data:** 2026-10-09
-**Aula:** curso.dev, aula 4
 
 ## O que aprendi
 - O arquivo `pages/index.js` vira a rota `/`

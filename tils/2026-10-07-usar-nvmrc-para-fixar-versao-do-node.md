@@ -1,7 +1,5 @@
 # Fixar a versão do Node com .nvmrc
 
-**Data:** 2026-10-07
-**Aula:** curso.dev, aula 3
 
 ## O que aprendi
 - `.nvmrc` é um arquivo na raiz do projeto com a versão do Node que ele usa
