@@ -38,3 +38,10 @@ Diário público de aprendizados para devs: hoje aprendi...
 | 2026-10-23 | 6 | [git restore e restore --staged](tils/2026-10-23-git-restore-e-restore-staged.md) |
 | 2026-10-23 | 6 | [git push --force e --force-with-lease](tils/2026-10-23-git-push-force-e-force-with-lease.md) |
 | 2026-10-23 | 6 | [Rotina do dia a dia com Git](tils/2026-10-23-rotina-do-dia-a-dia-com-git.md) |
+| 2026-10-23 | 7 | [Client x Server: a sociedade entre as máquinas](tils/2026-10-23-client-server-e-a-sociedade-entre-maquinas.md) |
+| 2026-10-23 | 7 | [Distância e performance sentida](tils/2026-10-23-distancia-e-performance-sentida-pelo-usuario.md) |
+| 2026-10-23 | 7 | [Hospedagem, deploy e continuous deployment](tils/2026-10-23-hospedagem-deploy-e-continuous-deployment.md) |
+| 2026-10-23 | 7 | [Abstrações e a barreira de entrada](tils/2026-10-23-abstracoes-e-barreira-de-entrada.md) |
+| 2026-10-23 | 7 | [Vercel: conta, autorização e importar repositório](tils/2026-10-23-vercel-conta-autorizacao-e-importar-repositorio.md) |
+| 2026-10-23 | 7 | [Princípio do privilégio mínimo](tils/2026-10-23-principio-do-privilegio-minimo.md) |
+| 2026-10-23 | 7 | [Muralha da tecnologia e muralha do negócio](tils/2026-10-23-muralha-da-tecnologia-e-muralha-do-negocio.md) |
