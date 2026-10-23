@@ -1,12 +1,13 @@
 # til-dev
+
 Diário público de aprendizados para devs: hoje aprendi...
 
-> Projeto construído durante o curso.dev, aprendendo em público.
+> Projeto construído durante o curso.dev, aprendendo em público, conhecimento adquirido no curso e em consultas ao Claude.
 
 ## TILs
 
 | Data | Aula | Tópico |
-|---|---|---|
+| --- | --- | --- |
 | 2026-10-06 | 2 | [Criar repositório no GitHub](tils/2026-10-06-criar-repositorio-github.md) |
 | 2026-10-06 | 2 | [Repositório local e remoto](tils/2026-10-06-repositorio-local-e-remoto.md) |
 | 2026-10-06 | 2 | [Ambiente local vs Codespaces](tils/2026-10-06-ambiente-local-vs-codespaces.md) |
@@ -31,3 +32,9 @@ Diário público de aprendizados para devs: hoje aprendi...
 | 2026-10-12 | 5 | [git diff e git diff --staged](tils/2026-10-12-git-diff-e-git-diff-staged.md) |
 | 2026-10-12 | 5 | [Corrigir commit com --amend](tils/2026-10-12-git-commit-amend.md) |
 | 2026-10-12 | 5 | [Prefixos de mensagem de commit](tils/2026-10-12-prefixos-de-mensagem-de-commit.md) |
+| 2026-10-23 | 6 | [Repositório local, origin e branch](tils/2026-10-23-repositorio-local-origin-e-branch.md) |
+| 2026-10-23 | 6 | [git push e git pull](tils/2026-10-23-git-push-e-git-pull.md) |
+| 2026-10-23 | 6 | [git log --oneline e --stat](tils/2026-10-23-git-log-oneline-e-stat.md) |
+| 2026-10-23 | 6 | [git restore e restore --staged](tils/2026-10-23-git-restore-e-restore-staged.md) |
+| 2026-10-23 | 6 | [git push --force e --force-with-lease](tils/2026-10-23-git-push-force-e-force-with-lease.md) |
+| 2026-10-23 | 6 | [Rotina do dia a dia com Git](tils/2026-10-23-rotina-do-dia-a-dia-com-git.md) |
